@@ -1,9 +1,11 @@
 # Shopping Cart
 
-Use Project
 
-`1. npm install`
-`2. npm run start / npm start`
+> Use Project
+>
+>  1. npm install
+>  2. npm run start / npm start
+
 
 ## 網頁描述
 ### 商品列表
